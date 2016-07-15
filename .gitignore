@@ -20,7 +20,7 @@ build
 # other
 eclipse
 run
-curse.properties
+gradle.properties
 
 # FML Stuff
 CREDITS-fml.txt

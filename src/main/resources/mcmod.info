@@ -1,0 +1,16 @@
+[
+{
+  "modid": "coaldust",
+  "name": "Coal Dust Mod",
+  "description": "Allows you to create Coal Dust to craft artificial diamonds from it.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["gr4yweb"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

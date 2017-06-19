@@ -2,8 +2,6 @@ package de.gr4yweb.coaldust.core;
 
 import de.gr4yweb.coaldust.items.ArtificialDiamondItem;
 import de.gr4yweb.coaldust.items.CoalDustItem;
-import net.minecraft.client.renderer.block.model.ModelResourceLocation;
-import net.minecraftforge.client.model.ModelLoader;
 
 /**
  * Mod Item Registration Class

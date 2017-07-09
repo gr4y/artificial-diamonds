@@ -1,6 +1,7 @@
 package de.gr4yweb.coaldust.items;
 
 import de.gr4yweb.coaldust.CoalDustMod;
+import de.gr4yweb.coaldust.CoalDustModItems;
 import de.gr4yweb.coaldust.core.IItem;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.creativetab.CreativeTabs;
@@ -16,8 +17,8 @@ import net.minecraftforge.oredict.OreDictionary;
  */
 public class CoalDustItem extends Item implements IItem {
 
-    static final String OREDICT_NAME = "dustCoal";
-    static final String ITEM_NAME = "dustCoal";
+    private static final String OREDICT_NAME = "coal_dust";
+    private static final String ITEM_NAME = "coal_dust";
 
     public CoalDustItem(String unlocalizedName){
         super();
@@ -34,7 +35,7 @@ public class CoalDustItem extends Item implements IItem {
 
     @Override
     public void registerRecipes() {
-        GameRegistry.addRecipe(new ItemStack(this, 9), "C", 'C', Items.COAL);
+        GameRegistry.addShapelessRecipe(new ItemStack(this, 3), new ItemStack(CoalDustModItems.HAMMER, 1, OreDictionary.WILDCARD_VALUE), new ItemStack(Items.COAL));
         GameRegistry.addRecipe(new ItemStack(Items.COAL, 1), "DDD", "DDD", "DDD", 'D', this);
     }
 

@@ -1,2 +1,4 @@
 item.dust_coal.name=Kohlenstaub
 item.artificial_diamond.name=Künstlicher Diamant
+item.hammer.name=Hammer
+item.hammer.description=Nutze diesen Hammer um Kohlenstaub aus Kohle herzustellen

@@ -1,6 +1,6 @@
 # Coal Dust Mod
 
-Adds coal dust to be able to craft diamonds.
+Most of the time I am playing Minecraft with a rather big load of tech mods. And every time I am going to mine diamonds, I am quite annoyed, cause I need many diamonds. 
 
 ## So what is the job of this mod?
 

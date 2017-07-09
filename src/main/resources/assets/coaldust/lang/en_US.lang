@@ -1,2 +1,4 @@
 item.dust_coal.name=Coal Dust
 item.artificial_diamond.name=Artificial Diamond
+item.hammer.name=Hammer
+item.hammer.description=Use this hammer to create Coal Dust from Coal

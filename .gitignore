@@ -8,6 +8,7 @@ bin
 
 # idea
 out
+output
 *.ipr
 *.iws
 *.iml
@@ -21,9 +22,17 @@ build
 eclipse
 run
 gradle.properties
+.env
 
-# FML Stuff
+# FML & MC Stuff
+config
+crash-reports
+logs
+options.txt
+saves
 CREDITS-fml.txt
+usercache.json
+usernamecache.json
 forge-1.9.4-12.17.0.1976-changelog.txt
 MinecraftForge-License.txt
 MinecraftForge-Credits.txt

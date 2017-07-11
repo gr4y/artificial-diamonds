@@ -1,6 +1,5 @@
 package de.gr4yweb.coaldust.proxy;
 
-import de.gr4yweb.coaldust.CoalDustModBlocks;
 import de.gr4yweb.coaldust.CoalDustModItems;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 

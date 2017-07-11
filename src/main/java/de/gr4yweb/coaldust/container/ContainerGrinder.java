@@ -4,6 +4,7 @@ import de.gr4yweb.coaldust.container.slot.grinder.SlotGrinderHeadHandler;
 import de.gr4yweb.coaldust.container.slot.grinder.SlotGrinderInputHandler;
 import de.gr4yweb.coaldust.container.slot.grinder.SlotGrinderOutputHandler;
 import de.gr4yweb.coaldust.tile.TileEntityGrinder;
+import jline.internal.Nullable;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.entity.player.InventoryPlayer;
 import net.minecraft.inventory.Container;
@@ -11,8 +12,6 @@ import net.minecraft.inventory.IInventory;
 import net.minecraft.inventory.Slot;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.items.IItemHandler;
-
-import javax.annotation.Nullable;
 
 public class ContainerGrinder extends Container {
 

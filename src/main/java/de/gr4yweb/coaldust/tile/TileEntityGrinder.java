@@ -1,7 +1,6 @@
 package de.gr4yweb.coaldust.tile;
 
 import de.gr4yweb.coaldust.CoalDustModItems;
-import de.gr4yweb.coaldust.items.GrindingStoneItem;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.ITickable;
 

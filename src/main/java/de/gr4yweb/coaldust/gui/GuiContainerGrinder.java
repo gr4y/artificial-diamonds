@@ -1,9 +1,7 @@
 package de.gr4yweb.coaldust.gui;
 
 import de.gr4yweb.coaldust.CoalDustMod;
-import de.gr4yweb.coaldust.container.ContainerCompressor;
 import de.gr4yweb.coaldust.container.ContainerGrinder;
-import de.gr4yweb.coaldust.tile.TileEntityCompressor;
 import de.gr4yweb.coaldust.tile.TileEntityGrinder;
 import net.minecraft.client.gui.inventory.GuiContainer;
 import net.minecraft.util.ResourceLocation;

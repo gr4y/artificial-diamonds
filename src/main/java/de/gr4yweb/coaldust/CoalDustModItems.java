@@ -4,9 +4,6 @@ import de.gr4yweb.coaldust.items.ArtificialDiamondItem;
 import de.gr4yweb.coaldust.items.CoalDustItem;
 import de.gr4yweb.coaldust.items.GrindingStoneItem;
 import de.gr4yweb.coaldust.items.HammerItem;
-import net.minecraft.client.Minecraft;
-import net.minecraft.client.renderer.block.model.ModelResourceLocation;
-import net.minecraft.item.Item;
 
 /**
  * Mod Item Registration Class

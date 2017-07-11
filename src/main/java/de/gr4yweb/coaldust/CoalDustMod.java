@@ -1,10 +1,6 @@
 package de.gr4yweb.coaldust;
 
 import de.gr4yweb.coaldust.proxy.CommonProxy;
-import net.minecraft.init.Items;
-import net.minecraft.init.PotionTypes;
-import net.minecraft.item.ItemStack;
-import net.minecraft.potion.PotionUtils;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.SidedProxy;

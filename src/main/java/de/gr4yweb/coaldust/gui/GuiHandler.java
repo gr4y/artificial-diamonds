@@ -6,7 +6,6 @@ import de.gr4yweb.coaldust.container.ContainerGrinder;
 import de.gr4yweb.coaldust.tile.TileEntityCompressor;
 import de.gr4yweb.coaldust.tile.TileEntityGrinder;
 import net.minecraft.entity.player.EntityPlayer;
-import net.minecraft.entity.player.InventoryPlayer;
 import net.minecraft.tileentity.TileEntity;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
